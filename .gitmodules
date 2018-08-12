@@ -1,0 +1,3 @@
+[submodule "Plugins/StateMachineEx"]
+	path = Plugins/StateMachineEx
+	url = git@github.com:yatagarasu25/UE4StateMachineExPlugin.git
